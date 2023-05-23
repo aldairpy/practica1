@@ -1,0 +1,14 @@
+p {
+    color: red;
+
+  }
+
+  .nombre{
+    color: green;
+  }
+
+  #pepe{
+    color: aquamarine;
+    size: 20px;
+    font-style: italic;
+  }
